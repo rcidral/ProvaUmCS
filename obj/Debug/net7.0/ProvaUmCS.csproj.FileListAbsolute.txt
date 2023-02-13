@@ -1,0 +1,15 @@
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\bin\Debug\net7.0\ProvaUmCS.exe
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\bin\Debug\net7.0\ProvaUmCS.deps.json
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\bin\Debug\net7.0\ProvaUmCS.runtimeconfig.json
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\bin\Debug\net7.0\ProvaUmCS.dll
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\bin\Debug\net7.0\ProvaUmCS.pdb
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.csproj.AssemblyReference.cache
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.AssemblyInfoInputs.cache
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.AssemblyInfo.cs
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.dll
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\refint\ProvaUmCS.dll
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.pdb
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ProvaUmCS.genruntimeconfig.cache
+C:\Users\ricardo.machado2\Dev\ProvaUmCS\obj\Debug\net7.0\ref\ProvaUmCS.dll
